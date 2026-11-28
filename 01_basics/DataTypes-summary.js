@@ -66,4 +66,4 @@ const myFunction = function(){ //Functions
 console.log(typeof anotherId); //defines datatype of variabe/data
 console.log(typeof outsideTemp); //object
 
-// https://262.ecma-international.org/5.1/#sec-11.4.3
+// https://262.ecma-international.org/5.1/#sec-11.4.3 //Documentataion resource
